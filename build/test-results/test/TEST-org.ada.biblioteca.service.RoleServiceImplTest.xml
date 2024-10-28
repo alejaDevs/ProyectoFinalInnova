@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.ada.biblioteca.service.RoleServiceImplTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-10-28T05:20:31" hostname="CODEMACHINE" time="0.019">
+  <properties/>
+  <testcase name="testDeleteRole_NotFound()" classname="org.ada.biblioteca.service.RoleServiceImplTest" time="0.003"/>
+  <testcase name="testUpdateRole_NotFound()" classname="org.ada.biblioteca.service.RoleServiceImplTest" time="0.003"/>
+  <testcase name="testFindRoleById_NotFound()" classname="org.ada.biblioteca.service.RoleServiceImplTest" time="0.003"/>
+  <testcase name="testFindRoleById_Success()" classname="org.ada.biblioteca.service.RoleServiceImplTest" time="0.002"/>
+  <testcase name="testDeleteRole_Success()" classname="org.ada.biblioteca.service.RoleServiceImplTest" time="0.002"/>
+  <testcase name="testUpdateRole_Success()" classname="org.ada.biblioteca.service.RoleServiceImplTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

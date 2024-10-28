@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.ada.biblioteca.service.JwtServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-10-28T05:20:30" hostname="CODEMACHINE" time="0.517">
+  <properties/>
+  <testcase name="testExtractUsername()" classname="org.ada.biblioteca.service.JwtServiceTest" time="0.476"/>
+  <testcase name="testGenerateToken()" classname="org.ada.biblioteca.service.JwtServiceTest" time="0.013"/>
+  <testcase name="testExtractAllClaims()" classname="org.ada.biblioteca.service.JwtServiceTest" time="0.005"/>
+  <testcase name="testIsTokenExpired()" classname="org.ada.biblioteca.service.JwtServiceTest" time="0.007"/>
+  <testcase name="testIsTokenValid_ValidToken()" classname="org.ada.biblioteca.service.JwtServiceTest" time="0.008"/>
+  <testcase name="testIsTokenValid_InvalidToken()" classname="org.ada.biblioteca.service.JwtServiceTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

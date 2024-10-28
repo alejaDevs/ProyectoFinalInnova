@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.ada.biblioteca.service.BookServiceImplTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-10-28T05:20:30" hostname="CODEMACHINE" time="0.159">
+  <properties/>
+  <testcase name="testFindBookById_NotFound()" classname="org.ada.biblioteca.service.BookServiceImplTest" time="0.136"/>
+  <testcase name="testGetBooks_Success()" classname="org.ada.biblioteca.service.BookServiceImplTest" time="0.003"/>
+  <testcase name="testCreateBook_Success()" classname="org.ada.biblioteca.service.BookServiceImplTest" time="0.002"/>
+  <testcase name="testDeleteBook_Success()" classname="org.ada.biblioteca.service.BookServiceImplTest" time="0.002"/>
+  <testcase name="testDeleteBook_NotFound()" classname="org.ada.biblioteca.service.BookServiceImplTest" time="0.002"/>
+  <testcase name="testUpdateBook_Success()" classname="org.ada.biblioteca.service.BookServiceImplTest" time="0.003"/>
+  <testcase name="testUpdateBook_NotFound()" classname="org.ada.biblioteca.service.BookServiceImplTest" time="0.002"/>
+  <testcase name="testFindBookById_Success()" classname="org.ada.biblioteca.service.BookServiceImplTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
